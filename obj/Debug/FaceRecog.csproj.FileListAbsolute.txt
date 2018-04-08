@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\FaceRecog\FaceRecog\bin\Debug\FaceRecog.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\FaceRecog\FaceRecog\bin\Debug\FaceRecog.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\FaceRecog\FaceRecog\bin\Debug\FaceRecog.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\FaceRecog\FaceRecog\obj\Debug\FaceRecog.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\FaceRecog\FaceRecog\obj\Debug\FaceRecog.FormDevices.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\FaceRecog\FaceRecog\obj\Debug\FaceRecog.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\FaceRecog\FaceRecog\obj\Debug\FaceRecog.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\FaceRecog\FaceRecog\obj\Debug\FaceRecog.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\FaceRecog\FaceRecog\obj\Debug\FaceRecog.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\FaceRecog\FaceRecog\obj\Debug\FaceRecog.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\FaceRecog\FaceRecog\obj\Debug\FaceRecog.csprojResolveAssemblyReference.cache
