@@ -1,1 +1,4 @@
-./bin
+# Bin directory
+bin/
+# Obj directory
+obj/
