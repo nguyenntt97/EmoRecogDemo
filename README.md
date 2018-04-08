@@ -11,6 +11,10 @@ Thank for your attention and wish you have as much good time as I had with this 
 
 * [EmguCV v3.4.1.2976](https://sourceforge.net/projects/emgucv/?source=typ_redirect) - OpenCV C# Wrapper
 
+## Tutorial
+
+First, we will create a winform to capture data frames from webcam device by ~~**avicap32 dll lib**~~ EmguCV.
+
 ## Contributing
 
 ## Versioning
