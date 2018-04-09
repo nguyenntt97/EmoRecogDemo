@@ -2,3 +2,4 @@
 bin/
 # Obj directory
 obj/
+.vs/
