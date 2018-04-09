@@ -3,3 +3,4 @@ bin/
 # Obj directory
 obj/
 .vs/
+packages/
