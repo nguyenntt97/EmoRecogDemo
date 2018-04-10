@@ -32,6 +32,15 @@ First, we will create a winform to capture data frames from webcam device by ~~*
 ## License
 
 ## Acknowledgements
+### Articles
 * [Paulvangent's Emotion Recognition Using Facial Landmark](http://www.paulvangent.com/2016/08/05/emotion-recognition-using-facial-landmarks/)
 
+* [Algorithmia's Emotion Recognition](https://blog.algorithmia.com/introduction-to-emotion-recognition/)
 
+* [Satya Mallick's Facial Landmark Detection](https://www.learnopencv.com/facial-landmark-detection/)
+
+### Publications
+
+* [HAL's Introduction to Emotion Recognition for Digital Images](https://hal.inria.fr/inria-00561918/PDF/Tutorial-Introduction_to_Emotion_Recognition_for_Digital_Images.pdf)
+
+* [USC's Analysis of Emotion Recognition Using Facial Expressions and others information](http://sail.usc.edu/publications/files/Busso_2004.pdf)
